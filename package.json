@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/overra/is-pptx/issues"
   },
-  "homepage": "https://github.com/overra/is-pptx#readme"
+  "homepage": "https://github.com/overra/is-pptx#readme",
+  "dependencies": {
+    "ooxml-type": "0.0.1"
+  }
 }
