@@ -1,0 +1,24 @@
+{
+  "name": "is-pptx",
+  "version": "0.0.1",
+  "description": "Detect pptx file type from buffer",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overra/is-pptx.git"
+  },
+  "keywords": [
+    "detect",
+    "pptx",
+    "filetype"
+  ],
+  "author": "Adam Snodgrass <overra@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/overra/is-pptx/issues"
+  },
+  "homepage": "https://github.com/overra/is-pptx#readme"
+}
